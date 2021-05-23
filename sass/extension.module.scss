@@ -1,0 +1,49 @@
+.truncate {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.postpreview {
+	max-height: 40vh;
+}
+
+.postpreviewimg {
+	width: 20% !important;
+}
+
+.posticon {
+	width: 40% !important;
+}
+.postheaderbody {
+	width: 60% !important;
+}
+
+.last_line {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.pixelart {
+	image-rendering: crisp-edges;
+	// image-rendering: pixelated;
+}
+
+.float_left {
+	float: left
+}
+
+.float_right {
+	float: right
+}
+
+.clearfix {
+	clear: both;
+}
+
+.clearfix:after {
+	clear: both; 
+	content: "";
+	display: table; 
+}

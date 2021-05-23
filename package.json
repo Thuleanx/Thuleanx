@@ -1,0 +1,23 @@
+{
+  "name": "thuleanx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "scss": "node-sass --watch sass -o styles"
+  },
+  "dependencies": {
+    "date-fns": "^2.21.3",
+    "gray-matter": "^4.0.3",
+    "next": "10.2.0",
+    "node-sass": "^6.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-markdown": "^6.0.2",
+    "react-syntax-highlighter": "^15.4.3",
+    "remark": "^13.0.0",
+    "remark-html": "^13.0.1"
+  }
+}
