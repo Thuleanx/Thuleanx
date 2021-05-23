@@ -16,8 +16,8 @@ export default function Home() {
 				</Head>
 						<section id="one">
 							<header className="major">
-								<h2>Hi, I'm Thuleanx<br />
-								Nice to meet you</h2>
+								<h2>Hi, I'm Thuleanx. <br />
+								 Nice to meet you</h2>
 							</header>
 							<p>
 								I solve competitive programming problems for fun for 5 years.
